@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    max-width:800px;
+    min-width:480px;
+   margin: 0 auto;
+   background-color: aqua;
+  }
+
+
+
+ p .lastResult {
+     color: blue;
+ }
